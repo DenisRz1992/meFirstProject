@@ -11,6 +11,7 @@ public class Main {
         System.out.println("cat = " + cat);
         System.out.println("paper = " + paper);
 
+
         // задача 2
 
         var dog2 = dog + 4;
