@@ -1,8 +1,10 @@
 public class Main {
+
     public static void main(String[] args) {
         System.out.println("Переменные задачи");
 
         // задача 1
+
 
         var dog = 8.0;
         var cat =  3.6;
@@ -14,6 +16,7 @@ public class Main {
 
         // задача 2
 
+
         var dog2 = dog + 4;
         var cat2 = cat + 4;
         var paper2 = paper + 4;
@@ -22,6 +25,7 @@ public class Main {
         System.out.println("paper 2 = " + paper2);
 
         // задача 3
+
 
         var dog3 = dog2 - 3.5;
         var cat3 = cat2 - 1.6;
@@ -32,6 +36,7 @@ public class Main {
 
         // задача 4
 
+
         var friend = 19;
         System.out.println("friend = "+ friend);
         var friend1 = friend + 2;
@@ -40,6 +45,7 @@ public class Main {
         System.out.println("friend 2 = "+ friend2);
 
         // задача 5
+
 
         var frog = 3.5;
         System.out.println("frod = " + frog);
@@ -52,6 +58,7 @@ public class Main {
 
         // задача 6
 
+
         var boecOdin = 78.2;
         var boecDva = 82.7;
         var massa = boecOdin + boecDva;
@@ -60,6 +67,7 @@ public class Main {
         System.out.println("разница = " + raznica + " кг ");
 
         //  задача 7
+
 
         var raznica1 = boecDva - boecOdin;
         System.out.println("разница 1 = " + raznica1 + " кг ");
@@ -70,11 +78,13 @@ public class Main {
 
 //        номер 1
 
+
         var chasov = 640;
         var sotr = chasov / 8;
         System.out.println("Всего работников в компании - " + sotr + " человек ");
 
         // номер 2
+
 
         var sotrMnogo = sotr + 94;
         var chasovStalo = chasov / sotrMnogo;
@@ -82,5 +92,8 @@ public class Main {
 
 
 
+        public static void main(String[] args) {
+
+        }
     }
 }
